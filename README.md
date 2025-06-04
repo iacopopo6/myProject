@@ -1,48 +1,11 @@
-# Utensils Mini Project
+## About
 
-Welcome to the Utensils Mini Project! This app is designed to assist chefs and restaurants in managing their deliveries and inventory needs. It’s a straightforward command-line tool that helps you keep track of products, couriers, and orders, ensuring everything runs smoothly in your kitchen. Best of all, it saves your data to .csv files so you never lose a thing.
+This repository contains personal projects focused on building robust ETL pipelines and web scraping solutions. The projects demonstrate expertise in extracting, transforming, and loading data from diverse sources, including APIs with varying response formats and dynamic web pages.
 
-## Features
+A core focus is on understanding and handling complex data structures such as nested dictionaries, JSON, XML, and intricate HTML layouts. These projects emphasize practical skills in parsing, cleaning, and transforming heterogeneous data into structured formats suitable for analysis and reporting.
 
-As a user, you can:
+By working with multiple response structures and dynamic content, these projects showcase key data engineering techniques essential for scalable and reliable data workflows.
 
-- **Add Stuff**: Create new products, couriers, and orders.
-- **View Stuff**: See all your products, couriers, or orders in a list.
-- **Update Order Status**: Change the status of an existing order.
-- **Save Your Data**: Everything gets saved to .csv files.
-- **Update or Delete**: Change or remove products, orders, or couriers.
-
-## Getting Started
-
-### Prerequisites
-
-Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
-
-### Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/iacopopo6/myProject.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd utensils-mini-project
-    ```
-3. Install the required dependencies (if any):
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Usage
-
-Run the main script to start the application:
-```bash
-python main.py
-```
-
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ### Contact
 
