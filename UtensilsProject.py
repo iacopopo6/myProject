@@ -1,6 +1,6 @@
 import csv
 
-# Function that read the files
+# File Reader
 
 def open_files(csvfile):
     with open(csvfile, 'r',newline='') as file :
