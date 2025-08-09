@@ -1,9 +1,9 @@
-UtensilsProject.py
 
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+UtensilsProject.py
+README.md
 
 # C extensions
 *.so
