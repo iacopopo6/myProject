@@ -2,8 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-UtensilsProject.py
-README.md
 
 # C extensions
 *.so

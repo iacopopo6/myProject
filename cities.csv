@@ -1,0 +1,21 @@
+id,first_name,last_name,age,city,state,country,score
+1,Alice,Smith,25,New York,NY,USA,88
+2,Bob,Johnson,30,Los Angeles,CA,USA,92
+3,Charlie,Williams,35,Chicago,IL,USA,79
+4,David,Brown,40,Houston,TX,USA,85
+5,Eve,Jones,45,Phoenix,AZ,USA,90
+6,Frank,Miller,28,San Diego,CA,USA,76
+7,Grace,Davis,33,Dallas,TX,USA,83
+8,Hank,Garcia,38,San Jose,CA,USA,91
+9,Ivy,Martinez,26,Austin,TX,USA,87
+10,Jack,Rodriguez,31,Jacksonville,FL,USA,80
+11,Karen,Hernandez,29,San Francisco,CA,USA,95
+12,Leo,Lopez,36,Columbus,OH,USA,82
+13,Mia,Gonzalez,27,Fort Worth,TX,USA,89
+14,Nate,Wilson,34,Indianapolis,IN,USA,78
+15,Olivia,Anderson,32,Charlotte,NC,USA,93
+16,Paul,Thomas,41,Seattle,WA,USA,84
+17,Quinn,Taylor,39,Denver,CO,USA,88
+18,Ruby,Moore,37,Washington,DC,USA,86
+19,Sam,Jackson,42,Boston,MA,USA,90
+20,Tina,Martin,44,Las Vegas,NV,USA,81
